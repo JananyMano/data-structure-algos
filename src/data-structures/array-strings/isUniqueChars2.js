@@ -4,7 +4,7 @@
  * @param {string} str
  * @return {boolean}
  */
-export default function isUniqueChars2(str) {
+function isUniqueChars2(str) {
 
   if(str.length > 256) {
     return false;
@@ -23,3 +23,5 @@ export default function isUniqueChars2(str) {
   return true;
 
 }
+
+module.exports = isUniqueChars2;

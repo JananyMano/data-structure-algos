@@ -13,4 +13,3 @@ function bitsDiff(numberA, numberB) {
 }
 
 module.exports = bitsDiff;
-module.exports = countSetBits;
