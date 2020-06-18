@@ -1,7 +1,5 @@
 # Data structure & algorithms
 
-[![see](https://img.shields.io/azure-devops/coverage/JananyMano/data-structure-algos/67/master?label=code%20coverage&logoColor=green)
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
