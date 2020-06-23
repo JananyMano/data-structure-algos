@@ -1,4 +1,6 @@
 # Data structure & algorithms
+[![HitCount](http://hits.dwyl.com/JananyMano/data-structure-algos.svg)](http://hits.dwyl.com/JananyMano/data-structure-algos)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
